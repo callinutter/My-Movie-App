@@ -1,1 +1,1 @@
-web: gunicorn my-movie-application.wsgi
+web: gunicorn django_movie_app.wsgi
